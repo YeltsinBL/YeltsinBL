@@ -8,7 +8,7 @@
 ✉️ &nbsp;You can contact me through my [LinkedIn account](https://www.linkedin.com/in/guillermo-yeltsin-baltodano-león-86938413b/).\
 📄 &nbsp;Please have a look at my [CV](https://yeltsinbaltodano.netlify.app/assets/CV_YeltsinBaltodano-D7b9lLfB.pdf) for more details about me.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
 <br />
 
